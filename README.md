@@ -1,4 +1,4 @@
-# -
+# -IPO
 def greeting
 print "Веди своё имя "
 name = gets.chomp
